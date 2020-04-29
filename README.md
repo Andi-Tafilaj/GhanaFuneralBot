@@ -5,6 +5,7 @@ A Discord Bot that takes 7 tokens to mass join 1 voice channel to play Astronomi
 
 # How to setup
 Clone the repo and be sure you have nodejs version 12.0 or later installed.
+NOTE: You do not need to have nodejs installed just to use the bots. You only need nodejs to modify the source code.
 
 Install discord.js v12 by simply typing "npm install `<discord.js>`
 
@@ -32,4 +33,4 @@ This invite won't be for long due to a lack of place for me to host it, you need
 - [Henchmen 5](https://discordapp.com/oauth2/authorize?client_id=704078743575986257&permissions=36766720&scope=bot)
 - [Coffin](https://discordapp.com/oauth2/authorize?client_id=704077241428082858&permissions=36766720&scope=bot)
 
-Feel free to report any bugs to me at shaftAndi#1825 or [join my server and ask away in #support](http://discord.gg/ZukG6P4)
+Feel free to report any bugs to me at shaftAndi#1825 or [join my server and ask away in #bot-support](http://discord.gg/ZukG6P4)
