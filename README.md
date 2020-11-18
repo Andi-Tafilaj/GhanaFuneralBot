@@ -1,3 +1,6 @@
+# Attention!!!
+This bot is temporary offline, DM me on Discord for help setting up! shaftAndi#5802
+
 # Ghana Funeral Bot
 A Discord Bot that takes 7 tokens to mass join 1 voice channel to play Astronomia
 
